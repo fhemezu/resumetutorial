@@ -1,5 +1,5 @@
-import { Button } from "@/components/ui/button";
-import { FiDownload } from "react-icons/fi";
+// import { Button } from "@/components/ui/button";
+// import { FiDownload } from "react-icons/fi";
 
 const Home = () => {
   return (
